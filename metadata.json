@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A professional, modern and minimalist Calculator app with dark/light themes, scientific mode, calculation history, haptic feedback, and AdMob integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

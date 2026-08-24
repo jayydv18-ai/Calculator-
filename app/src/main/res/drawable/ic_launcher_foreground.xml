@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.65"
+        android:scaleY="0.65"
+        android:translateX="18.9"
+        android:translateY="18.9">
+        <!-- Calculator body -->
+        <path
+            android:fillColor="#1E1E1E"
+            android:pathData="M24,12 L84,12 A12,12 0 0 1 96,24 L96,84 A12,12 0 0 1 84,96 L24,96 A12,12 0 0 1 12,84 L12,24 A12,12 0 0 1 24,12 Z" />
+        <!-- Calculator border -->
+        <path
+            android:strokeColor="#3E4759"
+            android:strokeWidth="3"
+            android:pathData="M24,12 L84,12 A12,12 0 0 1 96,24 L96,84 A12,12 0 0 1 84,96 L24,96 A12,12 0 0 1 12,84 L12,24 A12,12 0 0 1 24,12 Z" />
+        <!-- Screen display -->
+        <path
+            android:fillColor="#121316"
+            android:pathData="M24,22 L84,22 A6,6 0 0 1 90,28 L90,38 A6,6 0 0 1 84,44 L24,44 A6,6 0 0 1 18,38 L18,28 A6,6 0 0 1 24,22 Z" />
+        <!-- Number buttons row 1 -->
+        <path
+            android:fillColor="#323232"
+            android:pathData="M22,50 L38,50 A4,4 0 0 1 42,54 L42,62 A4,4 0 0 1 38,66 L22,66 A4,4 0 0 1 18,62 L18,54 A4,4 0 0 1 22,50 Z" />
+        <path
+            android:fillColor="#323232"
+            android:pathData="M46,50 L62,50 A4,4 0 0 1 66,54 L66,62 A4,4 0 0 1 62,66 L46,66 A4,4 0 0 1 42,62 L42,54 A4,4 0 0 1 46,50 Z" />
+        <!-- Accent operation buttons -->
+        <path
+            android:fillColor="#3E4759"
+            android:pathData="M70,50 L86,50 A4,4 0 0 1 90,54 L90,62 A4,4 0 0 1 86,66 L70,66 A4,4 0 0 1 66,62 L66,54 A4,4 0 0 1 70,50 Z" />
+        <!-- Number buttons row 2 -->
+        <path
+            android:fillColor="#323232"
+            android:pathData="M22,72 L38,72 A4,4 0 0 1 42,76 L42,84 A4,4 0 0 1 38,88 L22,88 A4,4 0 0 1 18,84 L18,76 A4,4 0 0 1 22,72 Z" />
+        <path
+            android:fillColor="#323232"
+            android:pathData="M46,72 L62,72 A4,4 0 0 1 66,76 L66,84 A4,4 0 0 1 62,88 L46,88 A4,4 0 0 1 42,84 L42,76 A4,4 0 0 1 46,72 Z" />
+        <!-- Equals button accent -->
+        <path
+            android:fillColor="#A8C7FA"
+            android:pathData="M70,72 L86,72 A4,4 0 0 1 90,76 L90,84 A4,4 0 0 1 86,88 L70,88 A4,4 0 0 1 66,84 L66,76 A4,4 0 0 1 70,72 Z" />
+    </group>
+</vector>
